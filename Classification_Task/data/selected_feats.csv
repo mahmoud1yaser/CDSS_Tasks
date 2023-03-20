@@ -1,0 +1,6 @@
+Class_secondary_hypothyroid,Class_primary_hypothyroid,Class_compensated_hypothyroid,Class_negative
+T4U measured,FTI,FTI,FTI
+T3 measured,TT4,TT4,TT4
+TT4 measured,Class_negative,Class_negative,TSH
+Class_negative,TSH,TSH,Class_primary_hypothyroid
+FTI measured,T3,T3,Class_compensated_hypothyroid
