@@ -1,6 +1,6 @@
 # CDSS_Tasks
 
-This is a repository of required projects regarding machine learning for clinical Decision Support Systems course of SBME 2024 under supervision of Dr/ Ahmed Morsy, Instructor/Eng. Eman Ayman, and TA/ Eng. Abdelrahman Hisham Mostafa.
+This is a repository for projects regarding  different machine learning models such as Linear & Logistic Regression using several tools for implementation such as python and weka tools.
 
 ## Task 1
 #### Creating a multinomial regression model for hypothyroid disease using Weka tool.
@@ -31,6 +31,8 @@ The dataset includes 29 features to help predict 4 output classes: negative (not
 
 
 ## About Us
+
+ The projects are made for clinical Decision Support Systems course of SBME 2024 under supervision of Dr/ Ahmed Morsy, Instructor/Eng. Eman Ayman, and TA/ Eng. Abdelrahman Hisham Mostafa.
 
 ### Team Members
 
