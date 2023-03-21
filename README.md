@@ -1,13 +1,21 @@
 # CDSS_Tasks
 
+This is a repository of required tasks for  clinical Decision Support Systems course of SBME 2024 under supervision of Dr/ Ahmed Morsy, Instructor/Eng. Eman Ayman, and TA/ Eng. Abdelrahman Hisham Mostafa.
 
-## task 1:
-#### Each Group is required to select a medical problem and predict a model using logistic regression using python
+## Task 1
+#### Creating a multinomial regression model for hypothyroid disease using Weka tool.
 
 
-* Select problem with available dataset
+* The chosen dataset is one of weka's examples "Hypothyroid", consisting of 30 attributes, 29 independent and one dependent.
 
-* Show how you could evaluate your model
+* Accuracy of the model
+-	96.85% correctly classified.
+-	MCC (Matthew’s Correlation coefficient) with average of 0.8.
+
+![1](image.png)
+
+
+
 
 
 
