@@ -33,6 +33,34 @@ Histogram visualization
 
 ![Results](https://user-images.githubusercontent.com/81927516/226503788-75841cae-587c-47b8-b7ed-0dff772f0e3d.png)
 
+## [Task 2](https://github.com/mahmoud1yaser/Clinical-Decesion-Support-System-Course/tree/main/Diabetes%20Problem)
+#### Using various classification algorithms to improve diabetes diagnosis in Indian women
+
+* The dataset is concerned with diagnosing diabetes in Indian women based on basic EHR records and some insulin readings.
+* Data cleaning and pre-processing included engineering new features based on the original ones (for example: Medical risk is an engineered feature derived from Age, BMI, and blood pressure).
+
+* Main Results
+
+We surpassed the maximum acheived accuracy in the aforementioned paper, both by using simple feature engineering as well as hyperparameter tuning.
+
+Paper's results:
+
+| Classifier | Accuracy | F1 Score | Cross Validation |
+|------------|----------|----------|------------------|
+| GNB        | 0.79     | 0.78     | 0.74             |
+| DT         | 0.76     | 0.80     | 0.74             |
+
+Accuracies After Preprocessing and Hyperparameter Tuning
+
+| Classifier | Accuracy | F1 Score | Cross Validation |
+|------------|----------|----------|------------------|
+| SVM **     | 0.83     | 0.83     | 0.77             |
+| GNB        | 0.78     | 0.78     | 0.75             |
+| DT         | 0.75     | 0.80     | 0.74             |
+| RF         | 0.79     | 0.79     | 0.74             |
+| LR         | 0.81     | 0.82     | 0.76             |
+| KNN        | 0.78     | 0.79     | 0.73             |
+
 
 
 ## About Us
